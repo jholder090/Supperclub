@@ -17,3 +17,6 @@ https://supperclub.herokuapp.com/
 + Sequelize
 + Mapbox/Cloudinary/Stripe APIs
 + Material UI component styling
+
+# Application Start-Up
++ Just visit supperclub.herokuapp.com/ to view the deployed app!
